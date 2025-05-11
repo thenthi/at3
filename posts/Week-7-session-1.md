@@ -11,20 +11,22 @@ allow_math: true
 This one I created it whenever we had a new lesson about 3D, I tried to get used to 3D by creating solar system. I thought that 3D is quite hard but it's really interesting. 
 
 # Brainstorm for assignment 3
-
 Theme: The Journey of Intellectual Growth and Self-Understanding – From Confusion to Confidence.
 
-Encounter 1: Maze - symbolizes confusion and lack of direction, feel nervous, panic.
-
-Encounter 2: A dark room with a hand reaches out to rescue - feel saved, rescued.
-
-Encounter 3: Room of blurred insight (Books flying around, symbols floating in the air—representing ideas and inspiration) 
-
-Encounter 4: A vibrant garden in full bloom, with a mirror standing among the flowers - An expression of personal awakening and the discovery of a clear path forward.
-
+Inspired by my own experiences in the past. The final period of high school was the most exhausting and challenging time for me, because in my country, we usually have an important exam that determines whether we can get into our dream university. At first, when I wasn’t yet used to the pressure of my final year, I felt completely overwhelmed. But thanks to the support and advice of those around me, I gradually recovered mentally, began a period of continuous hard work, and eventually achieved the success I had hoped for — a high score in the university entrance exam.
 # Top-down map
+![map](map.JPG)
+**Design Concept – A Tower of Emotions**
 
+For my Assignment 3 project, I decided to design the environment as a tall, vertical tower—a symbolic structure that reflects the emotional journey I experienced during my final year of high school.
 
+The player begins at the lowest level of the tower, where Encounter 1 takes place. This dark and confusing space represents a state of panic and emotional chaos. From there, the player ascends a staircase to the next floor, where Encounter 2 offers a shift in mood—introducing a moment of hope and emotional rescue.
+
+As the journey continues upward, the player reaches a room near the top of the tower for Encounter 3. This is a space of insight and learning, filled with floating books and symbols, representing growth and curiosity.
+
+Finally, the player climbs one last staircase to reach the very top of the tower—Encounter 4. Here, they are rewarded with a peaceful, open space full of blooming flowers and light, symbolizing personal achievement, freedom, and happiness after overcoming all the previous struggles.
+
+This vertical layout allows the emotional tone of the environment to rise in tandem with the player’s physical movement, creating a natural and powerful narrative structure.
 
 #  List of the assets
 **Encounter 1 – Maze:**
