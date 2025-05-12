@@ -18,3 +18,4 @@ Encounter 2: A dark room with a hand reaches out to rescue - feel saved, rescued
 Encounter 3: Room of blurred insight (Books flying around, symbols floating in the air—representing ideas and inspiration) 
 
 Encounter 4: A vibrant garden in full bloom, with a mirror standing among the flowers - An expression of personal awakening and the discovery of a clear path forward.
+#
