@@ -65,3 +65,14 @@ In Encounter 3 – Study Room, I added a sound that promotes motivation and refl
 
 For the final encounter, I chose a sound that brings a strong sense of achievement and emotional fulfillment. This space represents the moment of success—the reward after all the effort, struggles, and emotional battles the player has faced throughout the journey. The sound I used carries a calm but uplifting tone, symbolizing peace, pride, and inner strength. It gives players the feeling that they have finally reached their goal, and that all their hard work has led to something meaningful. As the player stands in front of the mirror in the flower field, the music gently emphasizes that this is a moment of self-recognition—they’re not just seeing their reflection, but seeing the successful, transformed version of themselves.
  
+# Source of musics and sound effects
+
+https://pixabay.com/sound-effects/search/girl%20crying/
+
+https://pixabay.com/music/search/creepy/
+
+https://freesound.org/people/geoneo0/sounds/193809/
+
+https://pixabay.com/music/search/achievement/
+
+https://pixabay.com/music/search/efort/
