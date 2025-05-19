@@ -67,12 +67,18 @@ For the final encounter, I chose a sound that brings a strong sense of achieveme
  
 # Source of musics and sound effects
 
-https://pixabay.com/sound-effects/search/girl%20crying/
+https://pixabay.com/sound-effects/woman-crying-2-291097/
 
-https://pixabay.com/music/search/creepy/
+https://pixabay.com/music/mystery-creepy-look-163556/
 
 https://freesound.org/people/geoneo0/sounds/193809/
 
-https://pixabay.com/music/search/achievement/
+https://pixabay.com/music/acoustic-group-fighting-through-the-darkness-241199/
 
-https://pixabay.com/music/search/efort/
+https://pixabay.com/sound-effects/meadow-field-summer-song-sparrow-crows-distant-traffic-pei-2011-51082/
+
+https://pixabay.com/music/modern-classical-calm-and-peaceful-115481/
+
+https://freesound.org/people/Vrymaa/sounds/722381/
+
+https://freesound.org/people/SamsterBirdies/sounds/731970/
