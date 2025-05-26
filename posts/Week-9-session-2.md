@@ -21,8 +21,6 @@ https://sketchfab.com/3d-models/stone-stair-case-53e52c0fa88a4aa58ad86db4c569c96
 
 https://sketchfab.com/3d-models/triple-french-window-7b3e129b178b432f9550eb63ca97cf30
 
-https://sketchfab.com/3d-models/study-room-d7abdd83bf264099a1f427345452c157
-
 https://sketchfab.com/3d-models/magic-mirror-184baa16500841ef86fdc94e62017e58
 
 https://sketchfab.com/3d-models/garden-flower-vegetation-683e2043a99d4bddb750098a934e3533
